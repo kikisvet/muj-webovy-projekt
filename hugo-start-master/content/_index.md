@@ -4,7 +4,7 @@ title: home
 
 # O mandalách 
 
-This are the contents of the Hugo start website front page.
+
 
 ### Mandala jako slovo pocházející ze staroindického obřadního jazyka sanskrtu, znamená kruh, oblouk, magický oblouk. 
 
