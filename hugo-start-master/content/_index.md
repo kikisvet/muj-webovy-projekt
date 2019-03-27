@@ -1,27 +1,23 @@
 ---
-title: Home
+title: home
 ---
 
-# Hello World! (It works!)
+# O mandalách 
 
 This are the contents of the Hugo start website front page.
 
-## Something to read: Sonnet LXVI.
+### Mandala jako slovo pocházející ze staroindického obřadního jazyka sanskrtu, znamená kruh, oblouk, magický oblouk. 
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+### Svůj semestrální projekt pojmu kreativním způsobem a to tím, že se budu zabývat obecně významu mandal. To téma jsem si zvolila proto, že se já sama zabývám tvorbou mandal a nesmírně mi to pomáhá s duševní rovnováhou k harmonizaci celého těla proti stresu. 
+### Já jsem ten typ člověka, který je téměř neustále ve stresu a jen tak se nedokážu uvolnit, zrelaxovat a na nic nemyslet a právě působení mandal prostřednictvím jejího tvoření mně  na to neskutečně pomáhá. 
+### Ve svém projektu bych se právě chtěla zaměřit na její původ, jakým způsobem můžeme  s mandalou pracovat, co nám tvoření a následně hotová mandala přináší a její použití.
+
+
+
+
+
+
+
+
+
 
