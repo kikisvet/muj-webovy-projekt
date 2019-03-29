@@ -13,8 +13,11 @@ title: home
 #### Ve svém projektu bych se právě chtěla zaměřit na její původ, jakým způsobem můžeme  s mandalou pracovat, co nám tvoření a následně hotová mandala přináší a její použití.
 
 #### Zdroje
+
 https://www.centrum-mandala.cz/o-mandalach
+
 http://spiritualawakening.weebly.com/mandalas-what-are-they.html
+
 https://www.whats-your-sign.com/yantra-mandala-meanings.html
 
 
