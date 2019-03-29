@@ -14,6 +14,8 @@ title: home
 
 #### Zdroje
 https://www.centrum-mandala.cz/o-mandalach
+http://spiritualawakening.weebly.com/mandalas-what-are-they.html
+https://www.whats-your-sign.com/yantra-mandala-meanings.html
 
 
 
