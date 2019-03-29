@@ -1,5 +1,8 @@
-title: Moje první webová stránka
-baseURL: https:/happy-human-e12a20.netlify.com/
+
+
+
+title: Vše o mandalách
+baseURL: https://vigilant-pasteur-e39f85.netlify.com/
 languageCode: cs-cz
 publishDir: public
 
