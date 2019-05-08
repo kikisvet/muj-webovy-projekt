@@ -18,5 +18,5 @@ menu:
 
 params:
   description: Description of my new site.
-  authors: Kristýna Světnicová: {{ Params.author }}
+  authors: Kristýna Světnicová
 
